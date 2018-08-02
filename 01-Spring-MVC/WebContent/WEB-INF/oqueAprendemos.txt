@@ -1,0 +1,6 @@
+Nessa aula aprendemos como funciona o Spring MVC
+Usando a apostila "01 - Spring MVC - Introducao.pdf"
+
+Desenvolvemos a "Controller" 
+Enviando dados pelos metodos GET e POST
+Pelas Views e controllers
